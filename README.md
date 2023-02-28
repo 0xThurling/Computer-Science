@@ -6,30 +6,6 @@
 
 # Curriculum
 
-**Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
-
-- [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core security](#core-security)
-  - [Core applications](#core-applications)
-  - [Core ethics](#core-ethics)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced information security](#advanced-information-security)
-  - [Advanced math](#advanced-math)
-- [Final project](#final-project)
-
-
 ## Intro CS
 
 ### Introduction to Computer Science
@@ -308,13 +284,7 @@ Courses | Duration | Effort | Prerequisites
 ### Advanced math
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
-[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH)
-[Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
-[Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
-[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). | Calculus 1C | [chat](https://discord.gg/EuTzNbF)
+[Mathematics Curriculum](https://github.com/Gl4SS3S/Computer-Science/blob/main/Math-Curriculum/math.md) | | | | This will cover a lot of topics already touched upon, but more rigorous
 [Cryptography](https://www.coursera.org/learn/crypto)
 
 ## Specialization
