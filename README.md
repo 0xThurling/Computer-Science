@@ -126,6 +126,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://discord.gg/Qstqe4t)
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://discord.gg/dWVvjuz)
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u)
+[Algorithms 1](https://imp.i384100.net/DVm9eo)
+[Algorithms 2](https://imp.i384100.net/jW4xyv)
 
 ### Core security
 **Topics covered**
@@ -174,7 +176,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra | [chat](https://discord.gg/NcXHDjy)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://discord.gg/68WqMNV)
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz)
 
 ### Core ethics
 
@@ -245,6 +246,7 @@ Courses | Duration | Effort | Prerequisites | Notes
 [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | Computation Structures 2 |
 [Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
+[System Design](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo)
 
 ### Advanced theory
 
@@ -316,3 +318,4 @@ Website | Focus | Difficulty
 [CodingGame](https://www.codingame.com/) | ? | Easy -> Difficult
 [HackerEarth: Competitive Programming](Competitive Programming on HackerEarth) | ? | ?
 [HackerEarth: CodeMonk](https://www.hackerearth.com/practice/codemonk/) | ? | ? 
+[System Design Interview](https://github.com/donnemartin/system-design-primer)
