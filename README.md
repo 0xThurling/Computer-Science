@@ -1,6 +1,8 @@
 # Personal Version of the OSSU Curriculum. 
 
-> Some of the courses are behind a paywall/outdated - please note this isn't a alternative, this is a slimmed down version of the OSSU curriculum based on personal goals and problems I found going through the content
+> Some of the courses are behind a paywall/outdated - please note this isn't a alternative, this is a slimmed down version of the OSSU curriculum based on personal goals and problems I found going through the content. (Khan Academy is used as a Gentle Introduction to topics before going into more rigorous mathematics programs)
+
+> P.S As these are based on personal goals, there are additional subjects which isn't necessary
 
 # Curriculum
 
@@ -72,7 +74,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week | Object-Oriented Design
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Design Patterns
 
-### Core math
+### Mathematics
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
 
 **Topics covered**:
@@ -85,28 +87,22 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 Courses | Duration | Effort | Notes | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Algebra 1](https://www.khanacademy.org/math/algebra)
-[Algebra 2](https://www.khanacademy.org/math/algebra2)
-[Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alt](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
-[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A | [chat](https://discord.gg/sddAsZg)
-[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B | [chat](https://discord.gg/FNEcNNq)
+[Algebra 1](https://www.khanacademy.org/math/algebra) | ?
+[Algebra 2](https://www.khanacademy.org/math/algebra2) | ?
+[Trigonometry](https://www.khanacademy.org/math/trigonometry) | ?
+[Geometry](https://www.khanacademy.org/math/geometry-home) | ?
+[College Algebra](https://www.khanacademy.org/math/college-algebra) | ?
+[Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | ?
+[Calculus 1](https://www.khanacademy.org/math/calculus-1) | ?
+[Calculus 2](https://www.khanacademy.org/math/calculus-2) | ?
+[Differential Calculus](https://www.khanacademy.org/math/differential-calculus) | ?
+[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | ?
+[College Statistics](https://www.khanacademy.org/math/ap-statistics) | ?
+[Integral Calculus](https://www.khanacademy.org/math/integral-calculus) | ?
+[Differential Equations](https://www.khanacademy.org/math/differential-equations) | ?
+[Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | ?
+[AP Calculus](https://www.khanacademy.org/math/ap-calculus-bc) | ?
 [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). | Calculus 1C | [chat](https://discord.gg/EuTzNbF)
-
-
-### CS Tools
-Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
-
-**Topics covered**:
-`terminals and shell scripting`
-`vim`
-`command line environments`
-`version control`
-`and more`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS)
 
 ### Core systems
 
@@ -271,6 +267,8 @@ Courses | Duration | Effort | Prerequisites | Notes
 [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alt1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alt2 ](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2) | Alternate links contain all 3 courses.
 [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 10 weeks | 6 hours/week | Computation Structures 1 |
 [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | Computation Structures 2 |
+[Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
+[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 
 ### Advanced theory
 
@@ -310,25 +308,14 @@ Courses | Duration | Effort | Prerequisites
 ### Advanced math
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
+[Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH)
 [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
 [Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
 
-## Final project
-
-OSS University is project-focused.
-The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
-
-After you've gotten through all of Core CS and the parts of Advanced CS relevant to you, you should think about a problem that you can solve using the knowledge you've acquired.
-Not only does real project work look great on a resume, but the project will also validate and consolidate your knowledge.
-You can create something entirely new, or you can find an existing project that needs help via websites like
-[CodeTriage](https://www.codetriage.com/)
-or
-[First Timers Only](https://www.firsttimersonly.com/).
-
-Students who would like more guidance in creating a project may choose to use a series of project oriented courses. Here is a sample of options (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you):
+## Specialization
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
@@ -341,9 +328,18 @@ Courses | Duration | Effort | Prerequisites
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
+[Graduate Aptitude in Engineering](https://www.geeksforgeeks.org/gate-cs-notes-gq/) | | A lot (Good luck) |
 
 ## Programming Language Specific Learning (Optional)
 
 Programming Language 
 :-- 
 [Rust Language](https://doc.rust-lang.org/book/)
+
+## Practice your Skills (Interview Prep) (Optional)
+
+Website | Focus | Difficulty
+:-- | :--: | :--:
+[CodingGame](https://www.codingame.com/) | ? | Easy -> Difficult
+[HackerEarth: Competitive Programming](Competitive Programming on HackerEarth) | ? | ?
+[HackerEarth: CodeMonk](https://www.hackerearth.com/practice/codemonk/) | ? | ? 
