@@ -231,7 +231,7 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-[Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alt1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alt2 ](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2) | Alternate links contain all 3 courses.
+[Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2) | Alternate links contain all 3 courses.
 [Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 [System Design](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo)
