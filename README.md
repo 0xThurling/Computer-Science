@@ -1,4 +1,5 @@
 # Personal Version of the OSSU Curriculum. 
+### Total Progress: ![Pub Popularity](https://img.shields.io/badge/progress-2%25-brightgreen)
 
 > Some of the courses are behind a paywall/outdated - please note this isn't a alternative, this is a slimmed down version of the OSSU curriculum based on personal goals and problems I found going through the content. (Khan Academy is used as a Gentle Introduction to topics before going into more rigorous mathematics programs)
 
@@ -18,9 +19,9 @@ This course will introduce you to the world of computer science. Students who ha
 `basic data structures and algorithms`
 `and more`
 
-Completed | Courses | Duration | Effort | Prerequisites | Discussion
+Progress | Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-✅ | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+![Pub Popularity](https://img.shields.io/badge/progress-100%25-brightgreen)| [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
 ## Core CS
 
@@ -41,12 +42,12 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `Ruby`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
-[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | 4 weeks | 2-5 hours/week | Design Patterns
+Progress | Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--: | :--:
+![Pub Popularity](https://img.shields.io/badge/progress-90%25-brightgreen)|[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | 4 weeks | 2-5 hours/week | Design Patterns
 
 ### Mathematics
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
@@ -59,23 +60,23 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 `discrete probability`
 `and more`
 
-Courses | Duration | Effort | Notes | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--: | :--:
-[Algebra 1](https://www.khanacademy.org/math/algebra) | ?
-[Algebra 2](https://www.khanacademy.org/math/algebra2) | ?
-[Trigonometry](https://www.khanacademy.org/math/trigonometry) | ?
-[Geometry](https://www.khanacademy.org/math/geometry-home) | ?
-[College Algebra](https://www.khanacademy.org/math/college-algebra) | ?
-[Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | ?
-[Calculus 1](https://www.khanacademy.org/math/calculus-1) | ?
-[Calculus 2](https://www.khanacademy.org/math/calculus-2) | ?
-[Differential Calculus](https://www.khanacademy.org/math/differential-calculus) | ?
-[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | ?
-[College Statistics](https://www.khanacademy.org/math/ap-statistics) | ?
-[Integral Calculus](https://www.khanacademy.org/math/integral-calculus) | ?
-[Differential Equations](https://www.khanacademy.org/math/differential-equations) | ?
-[Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | ?
-[AP Calculus](https://www.khanacademy.org/math/ap-calculus-bc) | ?
+Progress | Courses | Duration | Effort | Notes | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Algebra 1](https://www.khanacademy.org/math/algebra) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Algebra 2](https://www.khanacademy.org/math/algebra2) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Geometry](https://www.khanacademy.org/math/geometry-home) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [College Algebra](https://www.khanacademy.org/math/college-algebra) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Calculus 1](https://www.khanacademy.org/math/calculus-1) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Calculus 2](https://www.khanacademy.org/math/calculus-2) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Differential Calculus](https://www.khanacademy.org/math/differential-calculus) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [College Statistics](https://www.khanacademy.org/math/ap-statistics) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Integral Calculus](https://www.khanacademy.org/math/integral-calculus) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Differential Equations](https://www.khanacademy.org/math/differential-equations) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [AP Calculus](https://www.khanacademy.org/math/ap-calculus-bc) | ?
 
 
 ### Core systems
