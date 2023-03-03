@@ -48,6 +48,8 @@ Progress | Courses | Duration | Effort | Prerequisites | Discussion
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | 4 weeks | 2-5 hours/week | Design Patterns
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 2-5 hours/week | Design Patterns
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | 4 weeks | 2-5 hours/week | Design Patterns
 
 ### Mathematics
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
