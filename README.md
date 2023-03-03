@@ -305,19 +305,21 @@ Courses | Duration | Effort | Prerequisites
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
 [Graduate Aptitude in Engineering](https://www.geeksforgeeks.org/gate-cs-notes-gq/) | | A lot (Good luck) |
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
+[Mobile Development /w React Native](https://www.coursera.org/specializations/meta-react-native)
 
 ## Programming Language Specific Learning (Optional)
 
 Programming Language 
 :-- 
 [Rust Language](https://doc.rust-lang.org/book/)
+[Go Lang](https://www.coursera.org/specializations/google-golang)
 
 ## Practice your Skills (Interview Prep) (Optional)
 
 Website | Focus | Difficulty
 :-- | :--: | :--:
 [CodingGame](https://www.codingame.com/) | ? | Easy -> Difficult
-[HackerEarth: Competitive Programming](Competitive Programming on HackerEarth) | ? | ?
+[HackerEarth: Competitive Programming](https://www.hackerearth.com/getstarted-competitive-programming/) | ? | ?
 [HackerEarth: CodeMonk](https://www.hackerearth.com/practice/codemonk/) | ? | ? 
 [System Design Interview](https://github.com/donnemartin/system-design-primer)
 [Project Euler](https://projecteuler.net/about)
