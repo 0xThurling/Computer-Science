@@ -50,6 +50,8 @@ Progress | Courses | Duration | Effort | Prerequisites | Discussion
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | 4 weeks | 2-5 hours/week | Design Patterns
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 2-5 hours/week | Design Patterns
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | 4 weeks | 2-5 hours/week | Design Patterns
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Construction](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) | 4 weeks | 2-5 hours/week | Design Patterns
+
 
 ### Mathematics
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
@@ -125,8 +127,10 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Algorithms](https://www.coursera.org/specializations/algorithms) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY)
+[Introduction to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 [Algorithms 1](https://imp.i384100.net/DVm9eo)
 [Algorithms 2](https://imp.i384100.net/jW4xyv)
+[Introduction to computational thinking](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 ### Core security
 **Topics covered**
