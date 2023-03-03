@@ -266,8 +266,8 @@ Courses | Duration | Effort | Prerequisites
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies
-[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | -
-[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security
+[Information Security](https://www.coursera.org/specializations/information-security) | 3 weeks | 3 hours/week | -
+[Computer Forensics](https://www.coursera.org/specializations/computerforensics) | 3 weeks | 2-3 hours/week | Core Security
 [Secure Software Development](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
 
 ### Advanced math
