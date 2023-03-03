@@ -293,6 +293,12 @@ Courses | Duration | Effort | Prerequisites
 [Machine Learning](https://github.com/Gl4SS3S/Computer-Science/blob/main/extras/machine-learning.md)
 [Mobile Development /w React Native](https://www.coursera.org/specializations/meta-react-native)
 
+## Readings
+
+Books | Subject 
+:-- | :--:
+
+
 ## Programming Language Specific Learning (Optional)
 
 Programming Language 
