@@ -305,7 +305,7 @@ Programming Language
 :-- 
 [Rust Language](https://doc.rust-lang.org/book/)
 [Go Lang](https://www.coursera.org/specializations/google-golang)
-JavaScript [Part 1](https://www.khanacademy.org/computing/computer-programming/programming) [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) [Part 3](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
+JavaScript [Part 1](https://www.khanacademy.org/computing/computer-programming/programming) [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) [Part 3](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) [JS book](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md)
 
 ## Practice your Skills (Interview Prep) (Optional)
 
