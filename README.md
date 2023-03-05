@@ -53,6 +53,7 @@ Progress | Courses | Duration | Effort | Prerequisites | Discussion
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Development Progress](https://www.udacity.com/course/software-development-process--ud805) | 4 weeks | 2-5 hours/week | Design Patterns
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | 4 weeks | 2-5 hours/week | Design Patterns
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | 4 weeks | 2-5 hours/week | Design Patterns
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Architectue and Design](https://www.udacity.com/course/software-architecture-design--ud821) | 4 weeks | 2-5 hours/week | Design Patterns
 
 
 ### Mathematics
@@ -250,6 +251,9 @@ Courses | Duration | Effort | Prerequisites | Notes
 [High Performance Computing](https://www.udacity.com/course/high-performance-computing--ud281)
 [Embedded Systems](https://www.udacity.com/course/embedded-systems--ud169)
 [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
+[Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
+[High Performance Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007)
+
 
 ### Advanced theory
 
