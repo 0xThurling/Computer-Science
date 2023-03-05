@@ -136,6 +136,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Algorithms 1](https://imp.i384100.net/DVm9eo)
 [Algorithms 2](https://imp.i384100.net/jW4xyv)
 [Introduction to computational thinking](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+[Human Computer Interaction](https://www.udacity.com/course/human-computer-interaction--ud400)
+[Compilers](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
 
 ### Core security
 **Topics covered**
@@ -179,6 +181,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Databases: OLAP and Recursion](https://www.edx.org/course/olap-and-recursion)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Database Systems and Concepts](https://www.udacity.com/course/database-systems-concepts-design--ud150)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://discord.gg/68WqMNV)
+[Interactive Computer Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 
 ### Core ethics
 
@@ -319,6 +322,10 @@ Courses | Duration | Effort | Prerequisites
 
 Books | Subject 
 :-- | :--:
+[JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) | Software Design
+[Mostly adequate Guide to functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/) | Functional Programming
+[Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans) | Software Design
+[System Design Primer](https://github.com/donnemartin/system-design-primer) | Software Design
 
 
 ## Programming Language Specific Learning (Optional)
