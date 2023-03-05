@@ -11,4 +11,5 @@ Course | Length | Difficulty
 [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 [Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars)
 [AI for robots](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+[Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
 [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
