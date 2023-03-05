@@ -51,6 +51,8 @@ Progress | Courses | Duration | Effort | Prerequisites | Discussion
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Analysis and Testing](https://www.udacity.com/course/software-analysis-testing--ud333) | 4 weeks | 2-5 hours/week | Design Patterns
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Construction](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) | 4 weeks | 2-5 hours/week | Design Patterns
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Development Progress](https://www.udacity.com/course/software-development-process--ud805) | 4 weeks | 2-5 hours/week | Design Patterns
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | 4 weeks | 2-5 hours/week | Design Patterns
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | 4 weeks | 2-5 hours/week | Design Patterns
 
 
 ### Mathematics
@@ -108,6 +110,8 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | [chat](https://discord.gg/wZNgpep)
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
 [Computer Communication](https://www.coursera.org/specializations/computer-communications)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
+[Computer Networking](https://www.udacity.com/course/computer-networking--ud436)| 8 weeks | 4–12 hours/week | | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
+
 
 ### Core theory
 
@@ -146,6 +150,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4)
 [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)| 4 weeks | 4 hours/week | - |
+[Network Security](https://www.udacity.com/course/network-security--ud199)| 4 weeks | 4 hours/week | - |
 
 ### Core applications
 
@@ -171,6 +176,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Databases: Advanced Topics](https://www.edx.org/course/advanced-topics-in-sql)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Databases: OLAP and Recursion](https://www.edx.org/course/olap-and-recursion)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
+[Database Systems and Concepts](https://www.udacity.com/course/database-systems-concepts-design--ud150)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://discord.gg/68WqMNV)
 
 ### Core ethics
@@ -241,6 +247,9 @@ Courses | Duration | Effort | Prerequisites | Notes
 [Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 [System Design](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo)
+[High Performance Computing](https://www.udacity.com/course/high-performance-computing--ud281)
+[Embedded Systems](https://www.udacity.com/course/embedded-systems--ud169)
+[Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
 
 ### Advanced theory
 
@@ -266,6 +275,8 @@ Courses | Duration | Effort | Prerequisites
 [Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | 8 hours/week | algorithms, C++
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
 [Advanced Algorithms](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/)
+[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
+[How To Design Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 
 ### Advanced Information Security
 
