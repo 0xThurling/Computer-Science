@@ -182,6 +182,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Database Systems and Concepts](https://www.udacity.com/course/database-systems-concepts-design--ud150)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://discord.gg/68WqMNV)
 [Interactive Computer Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
+[Interactive Computer Graphics: University of Tokyo](https://www.coursera.org/learn/interactive-computer-graphics)
+
 
 ### Core ethics
 
@@ -317,6 +319,8 @@ Courses | Duration | Effort | Prerequisites
 [Graduate Aptitude in Engineering](https://www.geeksforgeeks.org/gate-cs-notes-gq/) | | A lot (Good luck) |
 [Machine Learning](https://github.com/Gl4SS3S/Computer-Science/blob/main/extras/machine-learning.md)
 [Mobile Development /w React Native](https://www.coursera.org/specializations/meta-react-native)
+[Digital Signal processing](https://www.coursera.org/specializations/digital-signal-processing?)
+
 
 ## Readings
 
