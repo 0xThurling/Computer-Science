@@ -10,3 +10,4 @@ Course | Length | Difficulty
 [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
 [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 [Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars)
+[Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
