@@ -286,6 +286,7 @@ Courses | Duration | Effort | Prerequisites
 [Information Security](https://www.coursera.org/specializations/information-security) | 3 weeks | 3 hours/week | -
 [Computer Forensics](https://www.coursera.org/specializations/computerforensics) | 3 weeks | 2-3 hours/week | Core Security
 [Secure Software Development](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
+[Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
 
 ### Advanced math
 Courses | Duration | Effort | Prerequisites | Discussion
