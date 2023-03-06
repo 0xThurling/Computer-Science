@@ -104,14 +104,14 @@ Progress | Courses | Duration | Effort | Notes | Prerequisites | Discussion
 `network protocols`
 `and more`
 
-Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language | [chat](https://discord.gg/vxB2DRV)
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | [chat](https://discord.gg/AsUXcPu)
-[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | [chat](https://discord.gg/wZNgpep)
-[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
-[Computer Communication](https://www.coursera.org/specializations/computer-communications)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
-[Computer Networking](https://www.udacity.com/course/computer-networking--ud436)| 8 weeks | 4–12 hours/week | | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
+Progress |Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen) | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language | [chat](https://discord.gg/vxB2DRV)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen) | [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | [chat](https://discord.gg/AsUXcPu)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen) | [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | [chat](https://discord.gg/wZNgpep)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen) | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen) | [Computer Communication](https://www.coursera.org/specializations/computer-communications)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen) | [Computer Networking](https://www.udacity.com/course/computer-networking--ud436)| 8 weeks | 4–12 hours/week | | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
 
 
 ### Core theory
@@ -330,6 +330,7 @@ Books | Subject
 [Mostly adequate Guide to functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/) | Functional Programming
 [Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans) | Software Design
 [System Design Primer](https://github.com/donnemartin/system-design-primer) | Software Design
+[GPU Gems](https://developer.nvidia.com/gpugems/gpugems3/contributors) | Graphics Programming
 
 
 ## Programming Language Specific Learning (Optional)
