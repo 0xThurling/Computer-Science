@@ -331,6 +331,7 @@ Books | Subject
 [Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans) | Software Design
 [System Design Primer](https://github.com/donnemartin/system-design-primer) | Software Design
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems3/contributors) | Graphics Programming
+[Information Retrieval (Search Engines)](https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf) | Search Engines
 
 
 ## Programming Language Specific Learning (Optional)
