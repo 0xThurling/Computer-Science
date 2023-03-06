@@ -23,6 +23,17 @@ Progress | Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
 ![Pub Popularity](https://img.shields.io/badge/progress-100%25-brightgreen)| [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
+## Soft Skills a.k.a Dealing with People (Very Much Required)
+**Please for the love of all that's good in the world, learn this - you are going to need it**
+
+Progress | Course 
+:-- | :--:
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Improve English Communication](https://www.coursera.org/specializations/improve-english)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Speaking and Presenting](https://www.coursera.org/specializations/good-with-words-speaking-and-presenting)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Effective Business Communication](https://www.coursera.org/specializations/effective-business-communication)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Negotiation Skills](https://www.coursera.org/learn/negotiation)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-cultivating-immensely-human-interactions)
+
 ## Core CS
 
 All coursework under Core CS is **required**, unless otherwise indicated.
