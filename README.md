@@ -332,6 +332,8 @@ Books | Subject
 [System Design Primer](https://github.com/donnemartin/system-design-primer) | Software Design
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems3/contributors) | Graphics Programming
 [Information Retrieval (Search Engines)](https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf) | Search Engines
+[GTK with Rust](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
+[Network Science](http://networksciencebook.com/chapter/1) | Networks
 
 
 ## Programming Language Specific Learning (Optional)
