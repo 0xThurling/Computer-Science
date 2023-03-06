@@ -1,7 +1,7 @@
 # Computer Science Learning (Based on OSSU). 
 ### Total Progress: ![Pub Popularity](https://img.shields.io/badge/progress-2%25-brightgreen)
 
-> Some of the courses are behind a paywall/outdated - please note this isn't a alternative, this is a slimmed down version of the OSSU curriculum based on personal goals and problems I found going through the content. (Khan Academy is used as a Gentle Introduction to topics before going into more rigorous mathematics programs)
+> Some of the courses are behind a paywall/outdated - please note this isn't a alternative, this is a version of the OSSU curriculum based on personal goals and problems I found going through the content. (Khan Academy is used as a Gentle Introduction to topics before going into more rigorous mathematics programs)
 
 > P.S As these are based on personal goals, there are additional subjects which isn't necessary
 
