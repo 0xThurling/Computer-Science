@@ -346,6 +346,7 @@ Books | Subject
 [GTK with Rust](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
 [Network Science](http://networksciencebook.com/chapter/1) | Networks
 [Cryptography](https://www.crypto101.io/)
+[How to design Programs](https://htdp.org/2023-3-6/Book/index.html)
 
 
 ## Programming Language Specific Learning (Optional)
