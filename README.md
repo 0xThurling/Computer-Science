@@ -55,7 +55,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Progress | Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-![Pub Popularity](https://img.shields.io/badge/progress-90%25-brightgreen)|[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
+![Pub Popularity](https://img.shields.io/badge/progress-100%25-brightgreen)|[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | 4 weeks | 2-5 hours/week | Design Patterns
