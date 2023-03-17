@@ -80,7 +80,7 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 Progress | Courses | Duration | Effort | Notes | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Algebra 1](https://www.khanacademy.org/math/algebra) | ?
+![Pub Popularity](https://img.shields.io/badge/progress-4%25-brightgreen)| [Algebra 1](https://www.khanacademy.org/math/algebra) | ?
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Algebra 2](https://www.khanacademy.org/math/algebra2) | ?
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | ?
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)| [Geometry](https://www.khanacademy.org/math/geometry-home) | ?
