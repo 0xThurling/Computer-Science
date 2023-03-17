@@ -364,7 +364,10 @@ Website | Focus | Difficulty
 :-- | :--: | :--:
 [CodingGame](https://www.codingame.com/) | ? | Easy -> Difficult
 [HackerEarth: Competitive Programming](https://www.hackerearth.com/getstarted-competitive-programming/) | ? | ?
-[HackerEarth: CodeMonk](https://www.hackerearth.com/practice/codemonk/) | ? | ? 
 [System Design Interview](https://github.com/donnemartin/system-design-primer)
 [Project Euler](https://projecteuler.net/about)
 [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+[HackerEarth: Practice](https://www.hackerearth.com/practice/)
+[Codility](https://app.codility.com/programmers/)
+[CodeWars: Practice](https://www.codewars.com/dashboard)
+[HackerRank: Inverview Prep](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges)
