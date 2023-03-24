@@ -358,6 +358,9 @@ Programming Language
 JavaScript [Part 1](https://www.khanacademy.org/computing/computer-programming/programming) [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) [Part 3](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) [JS book](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md)
 [OCaml](https://cs3110.github.io/textbook/chapters/intro/intro.html)
 
+# Projects
+[Build your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-3d-renderer)
+
 ## Practice your Skills (Interview Prep) (Optional)
 
 Website | Focus | Difficulty
