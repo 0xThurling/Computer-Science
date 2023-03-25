@@ -359,7 +359,51 @@ JavaScript [Part 1](https://www.khanacademy.org/computing/computer-programming/p
 [OCaml](https://cs3110.github.io/textbook/chapters/intro/intro.html)
 
 # Projects
-[Build your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-3d-renderer)
+Progress | Project | Subject 
+:-- | :--: | :--:
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Rasterisation](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm.html) | Graphics
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[3D Engine with C#](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/) | Graphics
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Raycasting - C/C++](https://lodev.org/cgtutor/raycasting.html) | Graphics
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[BitTorrent Client in Go](https://blog.jse.li/posts/torrent/) | Torrent
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Blockchain in C#](https://programmingblockchain.gitbook.io/programmingblockchain/) | Blockchain
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[NaiveCoin - TypeScript](https://naivecoinstake.learn.uno/) | Blockchain
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[CLI - Rust](https://rust-cli.github.io/book/index.html) | CLI
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build Redis - C/C++](https://build-your-own.org/redis/) | Databases
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a Database - C/C++](https://cstack.github.io/db_tutorial/) | Databases
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a GameBoy Emulator - JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript) | VMs
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a Chip-8 emulator - Lisp](https://stevelosh.com/blog/2016/12/chip8-cpu/) | VMs
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a Virtual Machine - C](https://www.jmeiners.com/lc3-vm/) | VMs
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build your own React - JS](https://pomb.us/build-your-own-react/) | Front-End
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build your own Front-end Framework](https://mfrachet.github.io/create-frontend-framework/) | Front-End
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a Roguellike - Rust](https://tomassedovic.github.io/roguelike-tutorial/) | Games
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Space invaders](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html) | Games
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Brick Breaker](https://learnopengl.com/In-Practice/2D-Game/Breakout) | Games
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Make your own GIT](https://www.leshenko.net/p/ugit/) | Version Control
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Network Stack](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/) | Network
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Network Programming](https://beej.us/guide/bgnet/html/split/) | Network
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Operating Systems - Rust](https://os.phil-opp.com/) | Operating Systems
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a bootloader - C](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/) | Operating Systems
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Operating Systems](https://littleosbook.github.io/) | Operating Systems
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Physics Engine](http://allenchou.net/game-physics-series/) | Physics Engine
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Crafting Interpreters](http://www.craftinginterpreters.com/) | Programming Language
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Crafting Schemas](https://www.wespiser.com/writings/wyas/home.html) | Programming Language
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Garbage Collectors](http://maplant.com/gc.html) | Programming Language
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Crafting Interpreters](http://www.craftinginterpreters.com/) | Programming Language
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Compiling/Writing a Lisp](https://bernsteinbear.com/blog/lisp/) | Programming Language
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[C Compiler in OCaml](https://norasandler.com/2017/11/29/Write-a-Compiler.html) | Programming Languages
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Regex Engine](https://rcoh.svbtle.com/no-magic-regular-expressions) | Regex
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Craft a shell](https://simjue.pages.dev/post/2018/07-01-go-unix-shell/) | Shell
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Craft a Text Editor](https://www.flenker.blog/hecto/) | IDEs
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Voxel Editor](https://sites.google.com/site/letsmakeavoxelengine/home) | Graphics
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Make a browser](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) | Browsers
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a browser engine](https://browser.engineering/) | Browser
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Craft a synthesizer](https://blog.demofox.org/diy-synthesizer/) | DSP
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Developing a Digital Synthesizer](https://vebuka.com/print/150202191825-a03f79147c1f709a182a5fe661bc93d7/Developing_a_Digital_Synthesizer_in_C_--_Extended_Version) | DSP
+
+
+
+
+
 
 ## Practice your Skills (Interview Prep) (Optional)
 
