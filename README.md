@@ -140,15 +140,15 @@ Progress |Courses | Duration | Effort | Additional Text / Assignments| Prerequis
 `NP-completeness`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Algorithms](https://www.coursera.org/specializations/algorithms) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY)
-[Introduction to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
-[Algorithms 1](https://imp.i384100.net/DVm9eo)
-[Algorithms 2](https://imp.i384100.net/jW4xyv)
-[Introduction to computational thinking](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-[Human Computer Interaction](https://www.udacity.com/course/human-computer-interaction--ud400)
-[Compilers](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
+Progress | Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--: | :--:
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Algorithms](https://www.coursera.org/specializations/algorithms) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Introduction to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Algorithms 1](https://imp.i384100.net/DVm9eo)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Algorithms 2](https://imp.i384100.net/jW4xyv)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Introduction to computational thinking](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Human Computer Interaction](https://www.udacity.com/course/human-computer-interaction--ud400)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Compilers](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
 
 ### Core security
 **Topics covered**
