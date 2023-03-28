@@ -414,6 +414,7 @@ Progress | Project | Subject
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a DNS Server](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) | Various
 
 https://codeblog.jonskeet.uk/category/edulinq/
+https://lihautan.com/i-wrote-my-module-bundler/
 
 
 ## Practice your Skills (Interview Prep) (Optional)
