@@ -413,6 +413,7 @@ Progress | Project | Subject
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a Chat App](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html) | Various
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a DNS Server](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) | Various
 
+https://codeblog.jonskeet.uk/category/edulinq/
 
 
 ## Practice your Skills (Interview Prep) (Optional)
