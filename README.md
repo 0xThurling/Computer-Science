@@ -160,11 +160,11 @@ Progress | Courses | Duration | Effort | Prerequisites | Discussion
 `Cryptography`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4)
-[Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)| 4 weeks | 4 hours/week | - |
-[Network Security](https://www.udacity.com/course/network-security--ud199)| 4 weeks | 4 hours/week | - |
+Progress | Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4)
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)| 4 weeks | 4 hours/week | - |
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Network Security](https://www.udacity.com/course/network-security--ud199)| 4 weeks | 4 hours/week | - |
 
 ### Core applications
 
