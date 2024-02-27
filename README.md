@@ -1,4 +1,4 @@
-# Computer Science Learning (Based on OSSU). 
+# Computer Science Learning (Based on OSSU).
 ### Total Progress: ![Pub Popularity](https://img.shields.io/badge/progress-2%25-brightgreen)
 
 > Some of the courses are behind a paywall/outdated - please note this isn't a alternative, this is a version of the OSSU curriculum based on personal goals and problems I found going through the content. (Khan Academy is used as a Gentle Introduction to topics before going into more rigorous mathematics programs)
@@ -26,7 +26,7 @@ Progress | Courses | Duration | Effort | Prerequisites | Discussion
 ## Soft Skills a.k.a Dealing with People (Very Much Required)
 **Please for the love of all that's good in the world, learn this - you are going to need it**
 
-Progress | Course 
+Progress | Course
 :-- | :--:
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Improve English Communication](https://www.coursera.org/specializations/improve-english)
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Speaking and Presenting](https://www.coursera.org/specializations/good-with-words-speaking-and-presenting)
@@ -335,7 +335,7 @@ Courses | Duration | Effort | Prerequisites
 
 ## Readings
 
-Books | Subject 
+Books | Subject
 :-- | :--:
 [JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) | Software Design
 [Mostly adequate Guide to functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/) | Functional Programming
@@ -351,15 +351,15 @@ Books | Subject
 
 ## Programming Language Specific Learning (Optional)
 
-Programming Language 
-:-- 
+Programming Language
+:--
 [Rust Language](https://doc.rust-lang.org/book/)
 [Go Lang](https://www.coursera.org/specializations/google-golang)
 JavaScript [Part 1](https://www.khanacademy.org/computing/computer-programming/programming) [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) [Part 3](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) [JS book](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md)
 [OCaml](https://cs3110.github.io/textbook/chapters/intro/intro.html)
 
 # Projects
-Progress | Project | Subject 
+Progress | Project | Subject
 :-- | :--: | :--:
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Computer Graphics](https://www.gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html) | Graphics
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Rasterisation](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm.html) | Graphics
@@ -405,7 +405,7 @@ Progress | Project | Subject
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a browser engine](https://browser.engineering/) | Browser
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Craft a synthesizer](https://blog.demofox.org/diy-synthesizer/) | DSP
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Developing a Digital Synthesizer](https://vebuka.com/print/150202191825-a03f79147c1f709a182a5fe661bc93d7/Developing_a_Digital_Synthesizer_in_C_--_Extended_Version) | DSP
-![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Developing a Digital Synthesizer](https://vebuka.com/print/150202191825-a03f79147c1f709a182a5fe661bc93d7/Developing_a_Digital_Synthesizer_in_C_--_Extended_Version) | DSP
+![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Developing a Operating system](https://wiki.osdev.org/Creating_an_Operating_System#Phase_IV:_Bootstrapping) | OS
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Developing and Implementing Digital Synthesizer](http://lib.tkk.fi/Dipl/2005/urn007886.pdf) | DSP
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Developing Software with Nim](https://xmonader.github.io/nimdays/book_intro.html) | Various
 ![Pub Popularity](https://img.shields.io/badge/progress-0%25-brightgreen)|[Build a CDN](https://github.com/leandromoreira/cdn-up-and-running) | Various
